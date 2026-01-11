@@ -1,2 +1,2 @@
-# Mindustry-Cursed-SFX
-Makes your mindustry SFX cursed
+# Cursed SFX
+This mod breaks your SFX. Making it random.
