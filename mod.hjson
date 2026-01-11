@@ -1,0 +1,8 @@
+name: "cursed-sfx"
+displayName: "Cursed SFX"
+author: "WantechFan"
+description: "Changes your Mindustry sound effects into some cursed sounds."
+version: "1.0"
+minGameVersion: "146"
+hidden: true
+subtitle: "Bruh sounds"
